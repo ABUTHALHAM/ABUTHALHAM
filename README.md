@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abuthalha+%F0%9F%91%8B;QA+Engineer+%7C+Test+Automation+Specialist;Selenium+WebDriver+%2B+Java+%2B+TestNG;Building+Quality+Software%2C+One+Test+at+a+Time)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abuthalha&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/abuthalha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuthalha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abu-thalha-49699a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-abuthalham003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abuthalham003@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Tirunelveli%2C+Tamil+Nadu-38BDAE?style=flat-square)](https://github.com/abuthalha)
 
