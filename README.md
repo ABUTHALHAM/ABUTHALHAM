@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABUTHALHAM&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/m-abu-thalha-49699a24a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/m-abu-thalha-49699a24a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abuthalham003@gmail.com"><img src="https://img.shields.io/badge/Email-abuthalham003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/📍-Tirunelveli%2C+Tamil+Nadu-38BDAE?style=flat-square" alt="Location" />
 </p>
